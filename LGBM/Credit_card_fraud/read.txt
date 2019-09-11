@@ -1,0 +1,7 @@
+Here goal to detect credit card fraud detection with highly imbalanced data.
+For this mostly BOOSTING is used . Here I am using boosting algo with 2 stages 
+Stage 1:
+getting the tuned hyperparameter using grid search cv
+
+Step 2:
+Application of the model to get the output.
