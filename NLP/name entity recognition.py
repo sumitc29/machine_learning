@@ -5,7 +5,7 @@
 import spacy
 
 
-s="Sumit is working in Amdocs and worked with TCS at Pune "
+s="Ajay is very good in study and likes swimming also "
 
 spacy_nlp = spacy.load('en')
 document = spacy_nlp(s)
