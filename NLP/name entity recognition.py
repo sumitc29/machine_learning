@@ -17,7 +17,6 @@ for element in document.ents:
 
     
 '''using nltk'''
-'''unable to get it in nltk try to find out solution'''
 import nltk
 tags=nltk.pos_tag(s.split())
 
